@@ -15,7 +15,7 @@ Ráda hraju Disco Elysium - The Final Cut v angličtině, ale někdy jsem si mus
 
 ## Stažení a Instalace
 ### Stažení
-V relese stáhnout: disco-preklad-switching 1.0.zip
+V release stáhnout: disco-preklad-switching 1.0.zip
 
 Nebo:
 1. Zelené tlačítko Code
