@@ -5,7 +5,8 @@ Mód, který místo nahrazení angličtiny, jak to dělá [český překlad](htt
 Ráda hraju Disco Elysium - The Final Cut v angličtině, ale někdy jsem si musela vzít do ruky telefon a použít překladač, což bylo dost obtěžující. Pak mě napadlo, že Disco Elysium - The Final Cut má přesně tuhle funkci, ale bohužel [český překlad](https://hernipreklady.cz/seznam-prekladu/disco-elysium-the-final-cut) nahrazuje původní angličtinu svou češtinou. Proto vznikl tento mód, který místo angličtiny nahrazuje němčinu a ráda bych se s ním podělila s ostatními.
 
 ## ⚠️ Důležité
-- Funguje pouze s Windows verzí hry.
+- Funguje pouze s Windows verzí hry (nebo s compatibility layers jako Wine/Proton - testováno v Bottles).
+  - Mělo by fungovat i na cracked verzi.
 - Testováno na Disco Elysium - The Final Cut GOG a0a063ab (1th January 2026) a Epic (2026-05-14) (problém akorát špatná velikost fontu v nastavení, jinak ok) verzi, ale mělo by to fungovat také na Steam verzi hry 17/12/25 (21044846). 2025-06-14
 - Před použitím si vždy zálohujte soubory.
 - Aby mód fungoval, nahrazuje němčinu. Proto při výběru výběru druhého (nebo prvního) jazyka je potřeba vybrat **německý jazyk**.
@@ -15,7 +16,7 @@ Ráda hraju Disco Elysium - The Final Cut v angličtině, ale někdy jsem si mus
 
 ## Stažení a Instalace
 ### Stažení
-V release stáhnout: disco-preklad-switching 1.0.zip
+V release stáhnout: [disco-preklad-switching.1.0.zip](https://github.com/localcatgirl-dev/disco-preklad-switching/releases)
 
 Nebo:
 1. Zelené tlačítko Code
